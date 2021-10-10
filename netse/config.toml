@@ -1,0 +1,3 @@
+baseURL = 'https://netse-ai.github.io'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
